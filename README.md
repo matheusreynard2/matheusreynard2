@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusreynard2&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreynard2&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
 <h1 align="center">👋 Olá, me chamo Matheus Reynard</h1>
 <p align="center">
   💻 Desenvolvedor Fullstack - Maior experiência no Backend
@@ -30,26 +35,11 @@
 - [Repositório do projeto](https://github.com/matheusreynard2/portfolio)
 ---
 
-## 📊 Estatísticas GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusreynard2&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreynard2&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
----
-
 ## Contato
 - [LinkedIn](https://bit.ly/3EvTFJY)
 - [Meu Currículo](https://bit.ly/cv-math-rey)
-**===========================================================================**
 
 [ENGLISH]
-
-<h1 align="center">👋 Hi, my name is Matheus Reynard</h1>
-<p align="center">
-  💻 Fullstack Developer - Stronger expertise in Backend
-</p>
-
----
 
 ## About Me
 - **5 years of professional experience** as a Fullstack Developer  
