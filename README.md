@@ -38,8 +38,9 @@
 ## Contato
 - [LinkedIn](https://bit.ly/3EvTFJY)
 - [Meu Currículo](https://bit.ly/cv-math-rey)
+---
 
-[ENGLISH]
+## [ENGLISH]
 
 ## About Me
 - **5 years of professional experience** as a Fullstack Developer  
@@ -67,14 +68,6 @@
 - **Google Cloud Integration**  
 - **And much more...**  
 - [Project Repository](https://github.com/matheusreynard2/portfolio)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusreynard2&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreynard2&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
