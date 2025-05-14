@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, me chamo Matheus Reynard</h1>
+<p align="center">
+  💻 Desenvolvedor Fullstack - Maior experiência no Backend
+</p>
 
-<!--
-**matheusreynard2/matheusreynard2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## Sobre mim
+- **5 anos de experiência profissional** como Desenvolvedor Fullstack 
+- **2 anos de experiência sólida com Java e Spring Boot**  
+- **Atualmente Dev Pleno na Noovi.com.br**
+- **Desenvolvedor do Sistema [Prodify](https://www.sistemaprodify.com)**  
+- **Formado em Sistemas de Informação (PUC-PR, 2017)**  
+---
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
+- **Back-end:** Java 8/11/17 | Spring Boot/Data/Security | JPA / Hibernate | REST API  
+- **Front-end:** Angular | TypeScript | React.js  
+- **Banco de Dados:** PostgreSQL | SQL Server | Oracle  
+- **Arquitetura:** MVC | Clean Architecture | Microsserviços  
+- **Outros:** Git | GitFlow | Docker | Kubernetes | Swagger | RabbitMQ | WebSocket
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projeto Atual: [Prodify](https://www.sistemaprodify.com)
+> Sistema completo de gestão de produtos com stack moderna:
+- **API em Java + Spring Boot**
+- **Frontend em Angular**
+- **Autenticação JWT**
+- **Integração com Google Cloud**
+- **E MUTO mais...**
+- [Repositório do projeto](https://github.com/matheusreynard2/portfolio)
+---
+
+## 📊 Estatísticas GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusreynard2&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreynard2&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+---
+
+## Contato
+- [LinkedIn](https://bit.ly/3EvTFJY)
+- [Meu Currículo](https://bit.ly/cv-math-rey)
+**===========================================================================**
+
+[ENGLISH]
+
+<h1 align="center">👋 Hi, my name is Matheus Reynard</h1>
+<p align="center">
+  💻 Fullstack Developer - Stronger expertise in Backend
+</p>
+
+---
+
+## About Me
+- **5 years of professional experience** as a Fullstack Developer  
+- **2 years of solid experience with Java and Spring Boot**  
+- **Currently Mid-level Developer at Noovi.com.br**  
+- **Developer of the [Prodify](https://www.sistemaprodify.com) System**  
+- **Bachelor's degree in Information Systems (PUC-PR, 2017)**
+
+---
+
+## Technologies & Tools
+- **Back-end:** Java 8/11/17 | Spring Boot/Data/Security | JPA / Hibernate | REST API  
+- **Front-end:** Angular | TypeScript | React.js  
+- **Database:** PostgreSQL | SQL Server | Oracle  
+- **Architecture:** MVC | Clean Architecture | Microservices  
+- **Others:** Git | GitFlow | Docker | Kubernetes | Swagger | RabbitMQ | WebSocket
+
+---
+
+## Current Project: [Prodify](https://www.sistemaprodify.com)
+> A complete product management system with a modern tech stack:
+- **Java + Spring Boot API**  
+- **Angular Frontend**  
+- **JWT Authentication**  
+- **Google Cloud Integration**  
+- **And much more...**  
+- [Project Repository](https://github.com/matheusreynard2/portfolio)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusreynard2&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreynard2&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## Contact
+- [LinkedIn](https://bit.ly/3EvTFJY)  
+- [My Resume](https://bit.ly/cv-math-rey)
