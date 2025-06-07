@@ -1,6 +1,14 @@
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=matheusreynard2&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreynard2&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=matheusreynard2&show_icons=true&theme=radical" width="420" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreynard2&layout=compact&theme=radical" width="420" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <h1 align="center">👋 Olá, me chamo Matheus Reynard</h1>
