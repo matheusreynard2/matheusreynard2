@@ -1,24 +1,24 @@
-<p align="center">
-  <h1>👋 Olá, me chamo Matheus Reynard</h1>
-  <p>💻 Desenvolvedor Fullstack - Maior experiência no Backend</p>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=matheusreynard2&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=matheusreynard2&show_icons=true&theme=radical" width="420" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreynard2&layout=compact&theme=radical" width="420" />
-      </td>
-    </tr>
-  </table>
-</p>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <h1>👋 Olá, me chamo Matheus Reynard</h1>
+      <p>💻 Desenvolvedor Fullstack - Maior experiência no Backend</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=matheusreynard2&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=matheusreynard2&show_icons=true&theme=radical" width="420" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreynard2&layout=compact&theme=radical" width="420" />
+    </td>
+  </tr>
+</table>
 
 ---
 ## Sobre mim
