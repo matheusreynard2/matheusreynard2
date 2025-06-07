@@ -1,7 +1,7 @@
 <p align="center">
   <table>
     <th>
-      <td>
+      <td colspan="2">
         <h1 align="center">👋 Olá, me chamo Matheus Reynard</h1>
         <p align="center">
           💻 Desenvolvedor Fullstack - Maior experiência no Backend
