@@ -1,5 +1,13 @@
 <p align="center">
   <table>
+    <th>
+      <td>
+        <h1 align="center">👋 Olá, me chamo Matheus Reynard</h1>
+        <p align="center">
+          💻 Desenvolvedor Fullstack - Maior experiência no Backend
+        </p>
+      </td>
+    </th>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=matheusreynard2&show_icons=true&theme=radical" width="420" />
@@ -9,11 +17,6 @@
       </td>
     </tr>
   </table>
-</p>
-
-<h1 align="center">👋 Olá, me chamo Matheus Reynard</h1>
-<p align="center">
-  💻 Desenvolvedor Fullstack - Maior experiência no Backend
 </p>
 
 ---
