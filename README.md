@@ -1,13 +1,14 @@
 <p align="center">
+  <h1>👋 Olá, me chamo Matheus Reynard</h1>
+  <p>💻 Desenvolvedor Fullstack - Maior experiência no Backend</p>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=matheusreynard2&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <table>
-    <th>
-      <td colspan="2">
-        <h1 align="center">👋 Olá, me chamo Matheus Reynard</h1>
-        <p align="center">
-          💻 Desenvolvedor Fullstack - Maior experiência no Backend
-        </p>
-      </td>
-    </th>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=matheusreynard2&show_icons=true&theme=radical" width="420" />
