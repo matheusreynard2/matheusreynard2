@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=matheusreynard2&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-contributions-api.deno.dev/matheusreynard2.svg" alt="Histórico de Contribuições GitHub" />
 </p>
 
 <p align="center">
