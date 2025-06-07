@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=matheusreynard2&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheusreynard2&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreynard2&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
