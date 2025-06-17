@@ -22,15 +22,15 @@
 
 ---
 ## Sobre mim
-- **5 anos de experiência profissional** como Desenvolvedor Fullstack 
-- **2 anos de experiência sólida com Java e Spring Boot**  
-- **Atualmente Dev Pleno na Noovi.com.br**
+- **6 anos de experiência profissional** como Desenvolvedor Fullstack 
+- **3 anos de experiência sólida com Java e Spring Boot**  
+- **Atualmente Dev Pleno na BTG**
 - **Desenvolvedor do Sistema [Prodify](https://www.sistemaprodify.com)**  
 - **Formado em Sistemas de Informação (PUC-PR, 2017)**  
 ---
 
 ## Tecnologias e Ferramentas
-- **Back-end:** Java 8/11/17 | Spring Boot/Data/Security | JPA / Hibernate | REST API  
+- **Back-end:** Java 8/11/17 | Spring Boot/Data/Security/Cloud | JPA / Hibernate | REST API
 - **Front-end:** Angular | TypeScript | React.js  
 - **Banco de Dados:** PostgreSQL | SQL Server | Oracle  
 - **Arquitetura:** MVC | Clean Architecture | Microsserviços  
@@ -43,6 +43,7 @@
 - **Frontend em Angular**
 - **Autenticação JWT**
 - **Integração com Google Cloud**
+- **Integração com BrasilAPI e ViaCEP**
 - **E MUTO mais...**
 - [Repositório do projeto](https://github.com/matheusreynard2/portfolio)
 ---
@@ -55,16 +56,16 @@
 ## [ENGLISH]
 
 ## About Me
-- **5 years of professional experience** as a Fullstack Developer  
-- **2 years of solid experience with Java and Spring Boot**  
-- **Currently Mid-level Developer at Noovi.com.br**  
+- **6 years of professional experience** as a Fullstack Developer  
+- **3 years of solid experience with Java and Spring Boot**  
+- **Currently Mid-level Developer at BTG**  
 - **Developer of the [Prodify](https://www.sistemaprodify.com) System**  
 - **Bachelor's degree in Information Systems (PUC-PR, 2017)**
 
 ---
 
 ## Technologies & Tools
-- **Back-end:** Java 8/11/17 | Spring Boot/Data/Security | JPA / Hibernate | REST API  
+- **Back-end:** Java 8/11/17 | Spring Boot/Data/Security/Cloud | JPA / Hibernate | REST API  
 - **Front-end:** Angular | TypeScript | React.js  
 - **Database:** PostgreSQL | SQL Server | Oracle  
 - **Architecture:** MVC | Clean Architecture | Microservices  
@@ -77,7 +78,8 @@
 - **Java + Spring Boot API**  
 - **Angular Frontend**  
 - **JWT Authentication**  
-- **Google Cloud Integration**  
+- **Google Cloud Integration**
+- **BrasilAPI and ViaCEP APIs Integrations**
 - **And much more...**  
 - [Project Repository](https://github.com/matheusreynard2/portfolio)
 
