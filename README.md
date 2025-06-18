@@ -45,13 +45,14 @@
 - **Integração com Google Cloud**
 - **Integração com BrasilAPI e ViaCEP**
 - **E MUTO mais...**
-- ** CÓDIGO ACESSÍVEL POR UM PREÇO SIMBÓLICO DE R$30,00 - ENTRE EM CONTATO **
+- **CÓDIGO ACESSÍVEL POR UM PREÇO SIMBÓLICO DE R$30,00 - ENTRE EM CONTATO**
 - [Repositório do projeto](https://github.com/matheusreynard2/portfolio)
 ---
 
 ## Contato
 - [LinkedIn](https://bit.ly/3EvTFJY)
 - [Meu Currículo](https://bit.ly/cv-math-rey)
+- +55 41 99539-7044
 ---
 
 ## [ENGLISH]
@@ -81,7 +82,8 @@
 - **JWT Authentication**  
 - **Google Cloud Integration**
 - **BrasilAPI and ViaCEP APIs Integrations**
-- **And much more...**  
+- **And much more...**
+- **ACCESS THE CODE FOR ONLY R$30 - CONTACT ME NOW**
 - [Project Repository](https://github.com/matheusreynard2/portfolio)
 
 ---
@@ -89,3 +91,4 @@
 ## Contact
 - [LinkedIn](https://bit.ly/3EvTFJY)  
 - [My Resume](https://bit.ly/cv-math-rey)
+- +55 41 99539-7044
