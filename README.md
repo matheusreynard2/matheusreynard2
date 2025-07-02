@@ -24,7 +24,7 @@
 ## Sobre mim
 - **6 anos de experiência profissional** como Desenvolvedor Fullstack 
 - **3 anos de experiência sólida com Java e Spring Boot**  
-- **Atualmente Dev Pleno na BTG**
+- **Atualmente Engenheiro de Software Pleno na BTG**
 - **Desenvolvedor do Sistema [Prodify](https://www.sistemaprodify.com)**  
 - **Formado em Sistemas de Informação (PUC-PR, 2017)**  
 ---
@@ -44,14 +44,15 @@
 - **Autenticação JWT**
 - **Integração com Google Cloud**
 - **Integração com BrasilAPI e ViaCEP**
+- **Sistema Multithread assincrono**
 - **E MUTO mais...**
-- **CÓDIGO ACESSÍVEL POR UM PREÇO SIMBÓLICO DE R$30,00 - ENTRE EM CONTATO**
+- **CÓDIGO DISPONÍVEL PARA COMPRA POR R$199,90 - ENTRE EM CONTATO**
 - [Repositório do projeto](https://github.com/matheusreynard2/portfolio)
 ---
 
 ## Contato
 - [LinkedIn](https://bit.ly/3EvTFJY)
-- [Meu Currículo](https://bit.ly/cv-math-rey)
+- [Meu Currículo](https://bit.ly/matheus-reynard-cv)
 - +55 41 99539-7044
 ---
 
@@ -60,7 +61,7 @@
 ## About Me
 - **6 years of professional experience** as a Fullstack Developer  
 - **3 years of solid experience with Java and Spring Boot**  
-- **Currently Mid-level Developer at BTG**  
+- **Currently Mid-level Software Engineer at BTG**  
 - **Developer of the [Prodify](https://www.sistemaprodify.com) System**  
 - **Bachelor's degree in Information Systems (PUC-PR, 2017)**
 
@@ -82,13 +83,14 @@
 - **JWT Authentication**  
 - **Google Cloud Integration**
 - **BrasilAPI and ViaCEP APIs Integrations**
+- **Multithread assynchronous system**
 - **And much more...**
-- **ACCESS THE CODE FOR ONLY R$30 - CONTACT ME NOW**
+- **BUY THE CODE FOR ONLY R$199,90 - CONTACT ME NOW**
 - [Project Repository](https://github.com/matheusreynard2/portfolio)
 
 ---
 
 ## Contact
 - [LinkedIn](https://bit.ly/3EvTFJY)  
-- [My Resume](https://bit.ly/cv-math-rey)
+- [My Resume](https://drive.google.com/file/d/1CiTgrNU9TXJ9eArIBusdPXpjsDedyLXQ/view?usp=sharing)
 - +55 41 99539-7044
