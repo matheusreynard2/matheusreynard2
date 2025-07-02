@@ -1,8 +1,8 @@
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <h1>👋 Olá, me chamo Matheus Reynard</h1>
-      <p>💻 Desenvolvedor Fullstack - Maior experiência no Backend</p>
+      <h1>👋 Olá, me chamo Matheus Reynard / Hi, my name is Matheus Reynard</h1>
+      <p>💻 Engenheiro de Software Pleno / Mid-Level Software Engineer</p>
     </td>
   </tr>
   <tr>
