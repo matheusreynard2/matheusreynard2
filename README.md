@@ -22,7 +22,7 @@
 
 ---
 ## Sobre mim
-- **6 anos de experiência profissional** como Desenvolvedor Fullstack 
+- **6 anos de experiência profissional** como Desenvolvedor Backend 
 - **3 anos de experiência sólida com Java e Spring Boot**  
 - **Atualmente Engenheiro de Software Pleno na BTG**
 - **Desenvolvedor do Sistema [Prodify](https://www.sistemaprodify.com)**  
@@ -34,7 +34,7 @@
 - **Front-end:** Angular | TypeScript | React.js  
 - **Banco de Dados:** PostgreSQL | SQL Server | Oracle  
 - **Arquitetura:** MVC | Clean Architecture | Microsserviços  
-- **Outros:** Git | GitFlow | Docker | Kubernetes | Swagger | RabbitMQ | WebSocket
+- **Outros:** Git | GitFlow | Docker | Kubernetes | Swagger | RabbitMQ | WebSocket | Microsserviços
 ---
 
 ## Projeto Atual: [Prodify](https://www.sistemaprodify.com)
@@ -45,14 +45,14 @@
 - **Integração com Google Cloud**
 - **Integração com BrasilAPI e ViaCEP**
 - **Sistema Multithread assincrono**
+- **Arquitetura Clean Arch com Microsserviços**
 - **E MUTO mais...**
-- **CÓDIGO DISPONÍVEL PARA COMPRA POR R$199,90 - ENTRE EM CONTATO**
 - [Repositório do projeto](https://github.com/matheusreynard2/portfolio)
 ---
 
 ## Contato
 - [LinkedIn](https://bit.ly/3EvTFJY)
-- [Meu Currículo](https://bit.ly/matheus-reynard-cv)
+- [Meu Currículo](https://bit.ly/curriculo-atual-matheus)
 - +55 41 99539-7044
 ---
 
@@ -85,7 +85,6 @@
 - **BrasilAPI and ViaCEP APIs Integrations**
 - **Multithread assynchronous system**
 - **And much more...**
-- **BUY THE CODE FOR ONLY R$199,90 - CONTACT ME NOW**
 - [Project Repository](https://github.com/matheusreynard2/portfolio)
 
 ---
